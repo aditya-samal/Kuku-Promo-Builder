@@ -1,10 +1,8 @@
-# Kuku Promo Builder
+# Kuku Promo Builder ([Solution PDF](submission/solution.pdf))
 
-[**Watch the demo**](https://github.com/aditya-samal/Kuku-Promo-Builder/raw/main/submission/Demo.mov)
 
-[Submission files](submission/) · [Solution PDF](submission/solution.pdf)
+https://github.com/user-attachments/assets/25ea3d8a-2e42-4776-bf62-59953d7804bc
 
-A local prototype for finding and ranking 20–60 second promo cuts from timestamped microdrama screenplays. Upload a ZIP of numbered episode .txt files, review the ranked cuts and source excerpts, save selections, and export CSV.
 
 ## Run locally
 
